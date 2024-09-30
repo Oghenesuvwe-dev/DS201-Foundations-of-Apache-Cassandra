@@ -25,9 +25,9 @@
 
 
 
-✅ Switch to the `apache-cassandra-4.0.13/bin` directory.
+✅ Switch to the `apache-cassandra-4.0.14/bin` directory.
 ```
-cd /workspace/ds201-lab01/apache-cassandra-4.0.13/bin
+cd /workspace/ds201-lab01/apache-cassandra-4.0.14/bin
 ```
 
 ✅ View the `bin` directory:
