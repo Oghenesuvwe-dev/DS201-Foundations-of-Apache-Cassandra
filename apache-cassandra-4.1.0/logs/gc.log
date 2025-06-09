@@ -11996,3 +11996,89 @@
 [2025-06-09T17:59:15.208+0000][640.114s][2992][3030][info ] Leaving safepoint region
 [2025-06-09T17:59:15.208+0000][640.114s][2992][3030][info ] Total time for which application threads were stopped: 0.0001449 seconds, Stopping threads took: 0.0000337 seconds
 [2025-06-09T17:59:20.081+0000][644.986s][2992][3029][trace] CMS: promo attempt is safe: available(6912212992) >= av_promo(0), max_promo(614787776)
+[2025-06-09T17:59:24.209+0000][649.115s][2992][3030][info ] Application time: 9.0008528 seconds
+[2025-06-09T17:59:24.209+0000][649.115s][2992][3030][info ] Entering safepoint region: Cleanup
+[2025-06-09T17:59:24.210+0000][649.115s][2992][3030][info ] Leaving safepoint region
+[2025-06-09T17:59:24.210+0000][649.115s][2992][3030][info ] Total time for which application threads were stopped: 0.0001344 seconds, Stopping threads took: 0.0000244 seconds
+[2025-06-09T17:59:30.081+0000][654.987s][2992][3029][trace] CMS: promo attempt is safe: available(6912212992) >= av_promo(0), max_promo(614787776)
+[2025-06-09T17:59:40.080+0000][664.986s][2992][3029][trace] CMS: promo attempt is safe: available(6912212992) >= av_promo(0), max_promo(614787776)
+[2025-06-09T17:59:50.079+0000][674.985s][2992][3029][trace] CMS: promo attempt is safe: available(6912212992) >= av_promo(0), max_promo(614787776)
+[2025-06-09T18:00:00.078+0000][684.984s][2992][3029][trace] CMS: promo attempt is safe: available(6912212992) >= av_promo(0), max_promo(614787776)
+[2025-06-09T18:00:10.077+0000][694.983s][2992][3029][trace] CMS: promo attempt is safe: available(6912212992) >= av_promo(0), max_promo(614787776)
+[2025-06-09T18:00:15.214+0000][700.120s][2992][3030][info ] Application time: 51.0045201 seconds
+[2025-06-09T18:00:15.214+0000][700.120s][2992][3030][info ] Entering safepoint region: Cleanup
+[2025-06-09T18:00:15.214+0000][700.120s][2992][3030][info ] Leaving safepoint region
+[2025-06-09T18:00:15.214+0000][700.120s][2992][3030][info ] Total time for which application threads were stopped: 0.0001624 seconds, Stopping threads took: 0.0000336 seconds
+[2025-06-09T18:00:20.078+0000][704.983s][2992][3029][trace] CMS: promo attempt is safe: available(6912212992) >= av_promo(0), max_promo(614787776)
+[2025-06-09T18:00:30.077+0000][714.983s][2992][3029][trace] CMS: promo attempt is safe: available(6912212992) >= av_promo(0), max_promo(614787776)
+[2025-06-09T18:00:40.076+0000][724.982s][2992][3029][trace] CMS: promo attempt is safe: available(6912212992) >= av_promo(0), max_promo(614787776)
+[2025-06-09T18:00:44.217+0000][729.123s][2992][3030][info ] Application time: 29.0026037 seconds
+[2025-06-09T18:00:44.217+0000][729.123s][2992][3030][info ] Entering safepoint region: Cleanup
+[2025-06-09T18:00:44.217+0000][729.123s][2992][3030][info ] Leaving safepoint region
+[2025-06-09T18:00:44.217+0000][729.123s][2992][3030][info ] Total time for which application threads were stopped: 0.0001168 seconds, Stopping threads took: 0.0000215 seconds
+[2025-06-09T18:00:50.075+0000][734.981s][2992][3029][trace] CMS: promo attempt is safe: available(6912212992) >= av_promo(0), max_promo(614787776)
+[2025-06-09T18:01:00.074+0000][744.980s][2992][3029][trace] CMS: promo attempt is safe: available(6912212992) >= av_promo(0), max_promo(614787776)
+[2025-06-09T18:01:10.074+0000][754.980s][2992][3029][trace] CMS: promo attempt is safe: available(6912212992) >= av_promo(0), max_promo(614787776)
+[2025-06-09T18:01:15.220+0000][760.126s][2992][3030][info ] Application time: 31.0028547 seconds
+[2025-06-09T18:01:15.220+0000][760.126s][2992][3030][info ] Entering safepoint region: Cleanup
+[2025-06-09T18:01:15.220+0000][760.126s][2992][3030][info ] Leaving safepoint region
+[2025-06-09T18:01:15.220+0000][760.126s][2992][3030][info ] Total time for which application threads were stopped: 0.0001290 seconds, Stopping threads took: 0.0000254 seconds
+[2025-06-09T18:01:20.073+0000][764.979s][2992][3029][trace] CMS: promo attempt is safe: available(6912212992) >= av_promo(0), max_promo(618366960)
+[2025-06-09T18:01:30.072+0000][774.978s][2992][3029][trace] CMS: promo attempt is safe: available(6912212992) >= av_promo(0), max_promo(618366960)
+[2025-06-09T18:01:40.072+0000][784.978s][2992][3029][trace] CMS: promo attempt is safe: available(6912212992) >= av_promo(0), max_promo(618366960)
+[2025-06-09T18:01:44.223+0000][789.129s][2992][3030][info ] Application time: 29.0024925 seconds
+[2025-06-09T18:01:44.223+0000][789.129s][2992][3030][info ] Entering safepoint region: Cleanup
+[2025-06-09T18:01:44.223+0000][789.129s][2992][3030][info ] Leaving safepoint region
+[2025-06-09T18:01:44.223+0000][789.129s][2992][3030][info ] Total time for which application threads were stopped: 0.0001929 seconds, Stopping threads took: 0.0000366 seconds
+[2025-06-09T18:01:50.071+0000][794.977s][2992][3029][trace] CMS: promo attempt is safe: available(6912212992) >= av_promo(0), max_promo(618366960)
+[2025-06-09T18:02:00.070+0000][804.976s][2992][3029][trace] CMS: promo attempt is safe: available(6912212992) >= av_promo(0), max_promo(618366960)
+[2025-06-09T18:02:00.224+0000][805.130s][2992][3030][info ] Application time: 16.0014499 seconds
+[2025-06-09T18:02:00.225+0000][805.130s][2992][3030][info ] Entering safepoint region: Cleanup
+[2025-06-09T18:02:00.225+0000][805.131s][2992][3030][info ] Leaving safepoint region
+[2025-06-09T18:02:00.225+0000][805.131s][2992][3030][info ] Total time for which application threads were stopped: 0.0001403 seconds, Stopping threads took: 0.0000304 seconds
+[2025-06-09T18:02:10.070+0000][814.976s][2992][3029][trace] CMS: promo attempt is safe: available(6912212992) >= av_promo(0), max_promo(618366960)
+[2025-06-09T18:02:15.226+0000][820.132s][2992][3030][info ] Application time: 15.0014536 seconds
+[2025-06-09T18:02:15.226+0000][820.132s][2992][3030][info ] Entering safepoint region: Cleanup
+[2025-06-09T18:02:15.226+0000][820.132s][2992][3030][info ] Leaving safepoint region
+[2025-06-09T18:02:15.226+0000][820.132s][2992][3030][info ] Total time for which application threads were stopped: 0.0001282 seconds, Stopping threads took: 0.0000241 seconds
+[2025-06-09T18:02:20.069+0000][824.975s][2992][3029][trace] CMS: promo attempt is safe: available(6912212992) >= av_promo(0), max_promo(618366960)
+[2025-06-09T18:02:30.069+0000][834.974s][2992][3029][trace] CMS: promo attempt is safe: available(6912212992) >= av_promo(0), max_promo(618366960)
+[2025-06-09T18:02:40.068+0000][844.974s][2992][3029][trace] CMS: promo attempt is safe: available(6912212992) >= av_promo(0), max_promo(618366960)
+[2025-06-09T18:02:50.067+0000][854.973s][2992][3029][trace] CMS: promo attempt is safe: available(6912212992) >= av_promo(0), max_promo(618366960)
+[2025-06-09T18:02:54.230+0000][859.136s][2992][3030][info ] Application time: 39.0035305 seconds
+[2025-06-09T18:02:54.230+0000][859.136s][2992][3030][info ] Entering safepoint region: Cleanup
+[2025-06-09T18:02:54.230+0000][859.136s][2992][3030][info ] Leaving safepoint region
+[2025-06-09T18:02:54.230+0000][859.136s][2992][3030][info ] Total time for which application threads were stopped: 0.0001055 seconds, Stopping threads took: 0.0000208 seconds
+[2025-06-09T18:03:00.066+0000][864.972s][2992][3029][trace] CMS: promo attempt is safe: available(6912212992) >= av_promo(0), max_promo(631789768)
+[2025-06-09T18:03:10.065+0000][874.971s][2992][3029][trace] CMS: promo attempt is safe: available(6912212992) >= av_promo(0), max_promo(631789768)
+[2025-06-09T18:03:10.232+0000][875.137s][2992][3030][info ] Application time: 16.0015927 seconds
+[2025-06-09T18:03:10.232+0000][875.138s][2992][3030][info ] Entering safepoint region: Cleanup
+[2025-06-09T18:03:10.232+0000][875.138s][2992][3030][info ] Leaving safepoint region
+[2025-06-09T18:03:10.232+0000][875.138s][2992][3030][info ] Total time for which application threads were stopped: 0.0001154 seconds, Stopping threads took: 0.0000251 seconds
+[2025-06-09T18:03:14.232+0000][879.138s][2992][3030][info ] Application time: 4.0004146 seconds
+[2025-06-09T18:03:14.232+0000][879.138s][2992][3030][info ] Entering safepoint region: Cleanup
+[2025-06-09T18:03:14.232+0000][879.138s][2992][3030][info ] Leaving safepoint region
+[2025-06-09T18:03:14.233+0000][879.138s][2992][3030][info ] Total time for which application threads were stopped: 0.0002061 seconds, Stopping threads took: 0.0000374 seconds
+[2025-06-09T18:03:15.233+0000][880.138s][2992][3030][info ] Application time: 1.0000951 seconds
+[2025-06-09T18:03:15.233+0000][880.139s][2992][3030][info ] Entering safepoint region: Cleanup
+[2025-06-09T18:03:15.233+0000][880.139s][2992][3030][info ] Leaving safepoint region
+[2025-06-09T18:03:15.233+0000][880.139s][2992][3030][info ] Total time for which application threads were stopped: 0.0002597 seconds, Stopping threads took: 0.0000473 seconds
+[2025-06-09T18:03:20.065+0000][884.971s][2992][3029][trace] CMS: promo attempt is safe: available(6912212992) >= av_promo(0), max_promo(645211568)
+[2025-06-09T18:03:30.064+0000][894.970s][2992][3029][trace] CMS: promo attempt is safe: available(6912212992) >= av_promo(0), max_promo(645211568)
+[2025-06-09T18:03:40.064+0000][904.969s][2992][3029][trace] CMS: promo attempt is safe: available(6912212992) >= av_promo(0), max_promo(645211568)
+[2025-06-09T18:03:50.063+0000][914.969s][2992][3029][trace] CMS: promo attempt is safe: available(6912212992) >= av_promo(0), max_promo(645211568)
+[2025-06-09T18:04:00.062+0000][924.968s][2992][3029][trace] CMS: promo attempt is safe: available(6912212992) >= av_promo(0), max_promo(645211568)
+[2025-06-09T18:04:06.238+0000][931.144s][2992][3030][info ] Application time: 51.0046531 seconds
+[2025-06-09T18:04:06.238+0000][931.144s][2992][3030][info ] Entering safepoint region: Cleanup
+[2025-06-09T18:04:06.238+0000][931.144s][2992][3030][info ] Leaving safepoint region
+[2025-06-09T18:04:06.238+0000][931.144s][2992][3030][info ] Total time for which application threads were stopped: 0.0001300 seconds, Stopping threads took: 0.0000246 seconds
+[2025-06-09T18:04:10.062+0000][934.968s][2992][3029][trace] CMS: promo attempt is safe: available(6912212992) >= av_promo(0), max_promo(645211568)
+[2025-06-09T18:04:14.239+0000][939.144s][2992][3030][info ] Application time: 8.0007505 seconds
+[2025-06-09T18:04:14.239+0000][939.145s][2992][3030][info ] Entering safepoint region: Cleanup
+[2025-06-09T18:04:14.239+0000][939.145s][2992][3030][info ] Leaving safepoint region
+[2025-06-09T18:04:14.239+0000][939.145s][2992][3030][info ] Total time for which application threads were stopped: 0.0001464 seconds, Stopping threads took: 0.0000241 seconds
+[2025-06-09T18:04:16.239+0000][941.145s][2992][3030][info ] Application time: 2.0002066 seconds
+[2025-06-09T18:04:16.239+0000][941.145s][2992][3030][info ] Entering safepoint region: Cleanup
+[2025-06-09T18:04:16.239+0000][941.145s][2992][3030][info ] Leaving safepoint region
+[2025-06-09T18:04:16.239+0000][941.145s][2992][3030][info ] Total time for which application threads were stopped: 0.0003430 seconds, Stopping threads took: 0.0000304 seconds
+[2025-06-09T18:04:20.062+0000][944.967s][2992][3029][trace] CMS: promo attempt is safe: available(6912212992) >= av_promo(0), max_promo(645211568)
