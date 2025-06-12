@@ -8,5 +8,8 @@
     "workbench.editor.showTabs": "single",
     "breadcrumbs.enabled": false,
     "zenMode.fullScreen": false,
-    "workbench.startupEditor": "none"
+    "workbench.startupEditor": "none",
+    "githubPullRequests.ignoredPullRequestBranches": [
+        "main"
+    ]
 }
