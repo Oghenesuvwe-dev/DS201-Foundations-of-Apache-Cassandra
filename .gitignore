@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Cassandra data and logs
+data/
+logs/
+commitlog/
+saved_caches/
+
+# Node directories and their data/logs
+node1/data/
+node1/logs/
+node1/commitlog/
+node1/saved_caches/
+node2/data/
+node2/logs/
+node2/commitlog/
+node2/saved_caches/
+
+# Cassandra binaries and libraries
+node1/bin/
+node1/lib/
+node1/pylib/
+node1/tools/
+node2/bin/
+node2/lib/
+node2/pylib/
+node2/tools/
+
+# Misc
+*.log
+*.err
+*.out
